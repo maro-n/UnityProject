@@ -1,0 +1,202 @@
+Initialize engine version: 5.4.2f1 (94e3a60ee258)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vantan\Desktop\GraduationProject-master\UnityProject_5.4.2f1\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.801138 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13638 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325587 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 332.
+Total: 0.331289 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.023378 ms MarkObjects: 0.230362 ms  DeleteObjects: 0.045046 ms)
+
+0= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+100= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+200= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+300= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+400= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+500= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+600= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+700= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+800= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+900= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1000= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1100= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1200= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1300= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1400= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1500= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1600= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1700= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1800= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+1900= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2000= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2100= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2200= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2300= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2400= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2500= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2600= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2700= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2800= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2900= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3000= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3100= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3200= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3300= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3400= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3500= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3600= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.278092 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 182.
+Total: 0.412258 ms (FindLiveObjects: 0.023948 ms CreateObjectMapping: 0.026799 ms MarkObjects: 0.167070 ms  DeleteObjects: 0.193299 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362650 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.202993 ms (FindLiveObjects: 0.018816 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.159087 ms  DeleteObjects: 0.009123 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.395152 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 338.
+Total: 1.179754 ms (FindLiveObjects: 0.028510 ms CreateObjectMapping: 0.026229 ms MarkObjects: 1.073126 ms  DeleteObjects: 0.050748 ms)
+
+0= _toScore
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
